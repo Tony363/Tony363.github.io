@@ -2,7 +2,7 @@ const Portfolio = function() {
 	function makeWords() {
 		var words = [
 			{
-				text: "Text Data Analysis",
+				text: "Tony",
 				weight: 6
 			}, {
 				text: "Class object Definition",
@@ -23,8 +23,8 @@ const Portfolio = function() {
 				text: "R programming",
 				weight: 9
 			}, {
-				text: "Learn Python with small projects!",
-				weight: 15
+				text: "Text Data Analysis",
+				weight: 7
 			}, {
 				text: "API integrations",
 				weight: 7
@@ -57,7 +57,7 @@ const Portfolio = function() {
 	function typeAnimation() {
 		Typed.new("#writing-text", {
 			strings: [
-				"I am an aspring Python Data analyst.", "Love automating excel with code.", "Open to tutor others with python.", "Changing the world with baby steps."
+				"am an aspring Python Data analyst.", "Love automating excel with code.", "am open to tutor others with python.", "am changing the world with baby steps."
 			],
 			// Optionally use an HTML element to grab strings from (must wrap each string in a <p>)
 			stringsElement: null,
