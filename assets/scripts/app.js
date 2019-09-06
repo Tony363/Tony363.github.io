@@ -2,31 +2,31 @@ const Portfolio = function() {
 	function makeWords() {
 		var words = [
 			{
-				text: "Biohacking",
-				weight: 12.3
+				text: "Text Data Analysis",
+				weight: 6
 			}, {
-				text: "css3",
-				weight: 8
+				text: "Class object Definition",
+				weight: 5
 			}, {
-				text: "javascript",
-				weight: 10
+				text: "Python Fundamentals",
+				weight: 12
 			}, {
-				text: "stack overflowing",
-				weight: 3
-			}, {
-				text: "programming",
+				text: "Pandas/Numpy",
 				weight: 7
 			}, {
-				text: "python",
-				weight: 15
-			}, {
-				text: "java",
+				text: "Programming logics",
 				weight: 9
 			}, {
-				text: "qazi",
+				text: "Basic webscrapping",
+				weight: 11
+			}, {
+				text: "R programming",
+				weight: 9
+			}, {
+				text: "Learn Python with small projects!",
 				weight: 15
 			}, {
-				text: "Freelancer",
+				text: "API integrations",
 				weight: 7
 			}
 		];
@@ -57,7 +57,7 @@ const Portfolio = function() {
 	function typeAnimation() {
 		Typed.new("#writing-text", {
 			strings: [
-				"I am an aspring python developer.", "Love solving problems with code.", "Open to tutor people with python.", "Change the world starting from my immediate surroundings."
+				"I am an aspring Python Data analyst.", "Love automating excel with code.", "Open to tutor others with python.", "Changing the world with baby steps."
 			],
 			// Optionally use an HTML element to grab strings from (must wrap each string in a <p>)
 			stringsElement: null,
