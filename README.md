@@ -1,2 +1,2 @@
 # adhoc-portfolio
-My portfolio since I haven't updated my page in a long while :) and also for fun!!!
+You can view the portfolio here https://thefool363.github.io/
