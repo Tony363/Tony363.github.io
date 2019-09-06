@@ -3,7 +3,7 @@ const Portfolio = function() {
 		var words = [
 			{
 				text: "Tony",
-				weight: 6
+				weight: 15
 			}, {
 				text: "Class object Definition",
 				weight: 5
