@@ -1,10 +1,10 @@
 {
   "name": "Adhoc Portfolio",
-  "homepage": "https://github.com/developertenzin/adhoc-portfolio",
+  "homepage": "wwww.thepysolver.monster",
   "authors": [
-    "developertenzin <tenzinphuljung7@gmail.com>"
+    "pysolver <pysolver33@gmail.com>"
   ],
-  "description": "This is a portfolio built just for Chicago Digital ;)",
+  "description": "TTook a template out there and made it mine ;)",
   "main": "app.js",
   "license": "MIT",
   "ignore": [

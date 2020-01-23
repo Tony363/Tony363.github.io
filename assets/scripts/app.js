@@ -3,31 +3,31 @@ const Portfolio = function() {
 		var words = [
 			{
 				text: "Tony",
-				weight: 15
+				weight: 10
 			}, {
-				text: "Class object Definition",
+				text: "Object Oriented Programming",
 				weight: 5
 			}, {
-				text: "Python Fundamentals",
+				text: "XGboost/Sklearn",
 				weight: 12
 			}, {
 				text: "Pandas/Numpy",
-				weight: 7
+				weight: 9
 			}, {
-				text: "Programming logics",
+				text: "Algorithms and Data structures",
 				weight: 9
 			}, {
 				text: "Basic webscrapping",
 				weight: 11
 			}, {
 				text: "R programming",
-				weight: 9
-			}, {
-				text: "Text Data Analysis",
 				weight: 7
 			}, {
-				text: "API integrations",
+				text: "Functional Programming",
 				weight: 7
+			}, {
+				text: "Data Visualization",
+				weight: 5
 			}
 		];
 		return words;
