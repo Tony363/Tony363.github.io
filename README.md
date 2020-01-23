@@ -1,2 +1,2 @@
 # adhoc-portfolio
-You can view the portfolio here wwww.thepysolver.monster
+You can view the portfolio here www.thepysolver.monster
