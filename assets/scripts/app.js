@@ -2,31 +2,31 @@ const Portfolio = function() {
 	function makeWords() {
 		var words = [
 			{
-				text: "Tony",
+				text: "Forest Decision Trees",
 				weight: 10
 			}, {
 				text: "Object Oriented Programming",
 				weight: 5
 			}, {
-				text: "XGboost/Sklearn",
+				text: "Xgboost API",
 				weight: 12
 			}, {
-				text: "Pandas/Numpy",
+				text: "Pandas/Numpy/Scipy",
 				weight: 9
 			}, {
-				text: "Algorithms and Data structures",
+				text: "Matplotlib/Seaborn/Holoviz",
 				weight: 9
 			}, {
-				text: "Basic webscrapping",
-				weight: 11
+				text: "Clustering Algorithms",
+				weight: 10
 			}, {
-				text: "R programming",
+				text: "AWS",
 				weight: 7
 			}, {
-				text: "Functional Programming",
+				text: "GCP",
 				weight: 7
 			}, {
-				text: "Data Visualization",
+				text: "D3.js",
 				weight: 5
 			}
 		];
